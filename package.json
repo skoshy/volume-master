@@ -1,0 +1,24 @@
+{
+  "name": "volume-master",
+  "version": "1.0.0",
+  "description": "Based off of [Vadagon's Volume Manager](https://github.com/Vadagon/volume-manager) extension",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skoshy/volume-master.git"
+  },
+  "author": "Stefan Koshy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skoshy/volume-master/issues"
+  },
+  "homepage": "https://github.com/skoshy/volume-master#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "prettier": "^2.0.5"
+  }
+}
